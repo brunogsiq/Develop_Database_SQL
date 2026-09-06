@@ -432,3 +432,5 @@ WHERE resultado = 'inconclusivo';
 ## 🔹 Inserção
 INSERT INTO TestesFuncionais (nome_teste, resultado, data_execucao, responsavel)
 VALUES ('Login com senha inválida', 'falha', GETDATE(), 'Bruno QA');
+
+Mensagem teste - Deverá ser apagada após documentação completa
